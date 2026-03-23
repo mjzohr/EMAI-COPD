@@ -1,9 +1,16 @@
 Tier 1
 ======
 
+Unimodal Models 
+
+Project Structure
+-----------------
+
 .. toctree::
    :maxdepth: 2
-   :caption: Tier 1
+   :caption: Explore the Project
 
    datasets/index
    models/index
+
+
