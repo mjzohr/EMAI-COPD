@@ -5,3 +5,4 @@ Models
    :maxdepth: 2
 
    general/index
+   omics/index
