@@ -1,5 +1,5 @@
-Wearable Dataset (Fitbit / Apple)
-=================================
+Wearable Data
+=============
 
 Dataset Details
 ---------------
@@ -7,6 +7,8 @@ Dataset Details
 Dataset Description
 ~~~~~~~~~~~~~~~~~~~
 Wearable-derived features from devices such as Fitbit and Apple Watch.
+Current Tier 1 wearable data reflects a small cohort with prior COPD
+exacerbation history and combines sensor signals with daily symptom context.
 
 Dataset Structure
 -----------------
@@ -20,6 +22,8 @@ Data Collection and Processing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Temporal aggregation (daily-level features)
 - Missing value handling
+- Device streams (Fitbit/Apple Watch) and daily survey signals (EXACT) can be
+	fused into structured features for unimodal baselines
 
 Uses
 -----

@@ -1,6 +1,5 @@
-======================================
-Foundation Tabular Models (TabPFNv2.5)
-======================================
+Foundation Models
+=================
 
 Model Details
 -------------

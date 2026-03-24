@@ -1,7 +1,5 @@
-Tier 3
-======
-
-Multimodal Models 
+Tier 3: Multimodal
+==================
 
 
 

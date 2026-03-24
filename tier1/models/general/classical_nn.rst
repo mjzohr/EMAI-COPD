@@ -1,6 +1,5 @@
-========================================
-Classical Neural Baselines (MLP, ResNet)
-========================================
+Classical Neural Models
+=======================
 
 Model Details
 -------------

@@ -1,5 +1,5 @@
-Transcriptomic Dataset (COPDGene P2)
-====================================
+Transcriptomics Data
+====================
 
 Dataset Details
 ---------------

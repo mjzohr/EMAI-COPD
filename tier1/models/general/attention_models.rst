@@ -1,6 +1,5 @@
-==============================
-Attention-Based Tabular Models 
-==============================
+Attention Models
+================
 
 Model Details
 -------------

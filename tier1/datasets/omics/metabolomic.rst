@@ -1,5 +1,5 @@
-Metabolomic Dataset (COPDGene P2)
-=================================
+Metabolomics Data
+=================
 
 Dataset Details
 ---------------

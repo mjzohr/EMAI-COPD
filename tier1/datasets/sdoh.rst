@@ -1,5 +1,5 @@
-SDOH Dataset (COPDGene P2)
-==========================
+SDOH Data
+=========
 
 Dataset Details
 ---------------
@@ -7,6 +7,8 @@ Dataset Details
 Dataset Description
 ~~~~~~~~~~~~~~~~~~~
 Social Determinants of Health (SDOH) features providing contextual information about participants.
+These covariates are included both for predictive context and for later
+fairness/ethical evaluation across subgroups.
 
 Dataset Structure
 -----------------

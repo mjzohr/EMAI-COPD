@@ -1,6 +1,5 @@
-================================================================
-Modern Deep Tabular Architectures (RealMLP, Trompt, ExcelFormer)
-================================================================
+Modern Deep Models
+==================
 
 Model Details
 -------------

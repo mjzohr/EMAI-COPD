@@ -1,5 +1,5 @@
-Clinical Dataset (COPDGene P2)
-==============================
+Clinical Data
+=============
 
 Dataset Details
 ---------------

@@ -1,5 +1,5 @@
-Proteomic Dataset (COPDGene P2)
-===============================
+Proteomics Data
+===============
 
 Dataset Details
 ---------------

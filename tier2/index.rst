@@ -1,7 +1,5 @@
-Tier 2
-======
-
-Bimodal Models 
+Tier 2: Bimodal
+===============
 
 
 
