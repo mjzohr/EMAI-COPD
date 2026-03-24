@@ -45,3 +45,9 @@ Recommended Use in Tier 1
 -------------------------
 Use mmMOI when modeling cross-omics interactions is central and the team can
 support a multi-step training workflow.
+
+Citation
+--------
+- Li, Y., Wang, Y., Liang, T., Li, Y., and Du, W. (2025). A multi-omics
+	integration framework using multi-label guided learning and multi-scale
+	fusion. Briefings in Bioinformatics, 26(5), bbaf493.

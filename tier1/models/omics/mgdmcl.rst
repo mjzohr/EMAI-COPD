@@ -45,3 +45,10 @@ Recommended Use in Tier 1
 -------------------------
 Use MGDMCL when classification performance is the priority and a heavier training
 pipeline is acceptable.
+
+Citation
+--------
+- Chen, W., and Qiu, H. (2025). MGDMCL: A multi-omics integration framework
+	based on masked graph dynamic learning and multi-granularity feature
+	contrastive learning for biomedical classification. Computer Methods and
+	Programs in Biomedicine, 271, 109024.

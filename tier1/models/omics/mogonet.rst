@@ -55,3 +55,10 @@ Recommended Use in Tier 1
 -------------------------
 Use MOGONET when both classification performance and practical feature analysis
 are required in the same benchmark pipeline.
+
+Citation
+--------
+- Wang, T., Shao, W., Huang, Z., Tang, H., Zhang, J., Ding, Z., and Huang, K.
+  (2021). MOGONET integrates multi-omics data using graph convolutional
+  networks allowing patient classification and biomarker identification. Nature
+  Communications, 12(1), 3445.

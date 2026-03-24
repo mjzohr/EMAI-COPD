@@ -46,3 +46,9 @@ Recommended Use in Tier 1
 -------------------------
 Use BioNeuralNet when representation quality and network-level biological
 structure are primary goals, especially before multimodal fusion in later tiers.
+
+Citation
+--------
+- Ramos, V., Hussein, S., Abdel-Hafiz, M., Sarkar, A., Liu, W., Kechris, K. J.,
+  Bowler, R. P., Lange, L., and Banaei-Kashani, F. (2025). BioNeuralNet: A Graph
+  Neural Network based Multi-Omics Network Data Analysis Tool. arXiv:2507.20440.

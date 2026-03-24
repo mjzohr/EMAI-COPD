@@ -46,3 +46,9 @@ Recommended Use in Tier 1
 -------------------------
 Use TMO-Net when pre-trained multi-omics representations and missing-modality
 robustness are key project priorities.
+
+Citation
+--------
+- Wang, F.-A., Zhuang, Z., Gao, F., He, R., et al. (2024). TMO-Net: an
+	explainable pretrained multi-omics model for multi-task learning in oncology.
+	Genome Biology, 25(1).
